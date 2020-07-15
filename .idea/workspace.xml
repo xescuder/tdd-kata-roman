@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7155443-9019-46f1-8c63-ea3b3bae01f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dpOFhuKSiIS4qAhaHQsAGhDZBI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="show.unlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RomanNumeralGeneratorShould.generate_a_roman_numeral_from_a_decimal_number">
+    <configuration name="All in junit5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralGeneratorShould" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralGeneratorShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralGeneratorShould.generate_a_roman_numeral_from_a_decimal_number" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralGeneratorShould" />
+      <option name="METHOD_NAME" value="generate_a_roman_numeral_from_a_decimal_number" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralGeneratorShould.generate_roman_numbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralGeneratorShould" />
+      <option name="METHOD_NAME" value="generate_roman_numbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanNumeralGeneratorShould.generate_a_roman_numeral_from_a_decimal_number" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorShould" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorShould.generate_roman_numbers" />
+        <item itemvalue="JUnit.ThingTest" />
+        <item itemvalue="JUnit.All in junit5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7155443-9019-46f1-8c63-ea3b3bae01f8" name="Default Changelist" comment="" />
+      <created>1593118465635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593118465635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="117" key="#Auto_Import" timestamp="1593295986046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="117" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1593295986046" />
+    <state x="485" y="241" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1593292988646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="241" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1593292988646" />
+    <state x="492" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593119328415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593119328415" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1593298682779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593298682779" />
+    <state x="551" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593295577676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1593295577676" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1593365084130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593365084130" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593301059132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593301059132" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593301059132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593301059132" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593301059132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593301059132" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593301059132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593301059132" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1593296275197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593296275197" />
+    <state x="540" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593119528799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1593119528799" />
+    <state x="478" y="0" width="579" height="824" key="find.popup" timestamp="1593120609059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="0" width="579" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1593120609059" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593296236351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593296236351" />
+  </component>
+</project>
