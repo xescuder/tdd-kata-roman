@@ -1,5 +1,7 @@
 /bin/
 /out/
+/target/
+/.idea/
 .gradle
 build
 .classpath
